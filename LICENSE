@@ -1,0 +1,14 @@
+
+---
+
+## 🧾 Step 5: Add a License
+
+Create a file named `LICENSE` in your repo with this content (MIT License):
+
+```text
+MIT License
+
+Copyright (c) 2025 <Your Name>
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+...

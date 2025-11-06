@@ -1,0 +1,20 @@
+# Root .gitignore
+# --- Node / React Native ---
+client/node_modules/
+client/android/
+client/ios/
+client/.expo/
+client/.gradle/
+client/.idea/
+client/build/
+client/yarn-error.log
+
+# --- Python / FastAPI ---
+server/venv/
+server/__pycache__/
+server/*.pyc
+server/.pytest_cache/
+server/memory.db
+
+# --- Environment files ---
+*.env
