@@ -1,4 +1,4 @@
-# 🤖 AI Agent – On-Device Chat Assistant (React Native + FastAPI + Gemini)
+# 🤖 AI Agent – Chat Assistant (React Native + FastAPI + Gemini)
 
 A full-stack AI-powered chat assistant built with **React Native** (client) and **FastAPI** (server), powered by **Google Gemini AI**.  
 This project demonstrates how to combine local persistence, tool-based reasoning (weather, AQI, calculator, etc.), and cloud-based AI for an interactive chat experience.
